@@ -176,4 +176,8 @@ body.active {
         top: 150px;
         left: 0;
     }
+    .form_btn_signup {
+        padding: 10px 20px;
+    }
+}
 }
