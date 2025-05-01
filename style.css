@@ -176,4 +176,8 @@ body.active {
         top: 150px;
         left: 0;
     }
+    .form_btn {
+        width: 60%;
+        padding: 10px;
+    }
 }
